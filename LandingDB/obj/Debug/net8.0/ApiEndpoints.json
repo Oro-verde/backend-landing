@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "LandingDB.Controllers.ContactoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Contacto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

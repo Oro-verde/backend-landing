@@ -1,0 +1,6 @@
+@LandingDB_HostAddress = http://localhost:5051
+
+GET {{LandingDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
